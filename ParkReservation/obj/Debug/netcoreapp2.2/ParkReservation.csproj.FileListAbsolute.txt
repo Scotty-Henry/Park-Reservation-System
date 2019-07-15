@@ -1,0 +1,9 @@
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\bin\Debug\netcoreapp2.2\ParkReservation.deps.json
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\bin\Debug\netcoreapp2.2\ParkReservation.dll
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\bin\Debug\netcoreapp2.2\ParkReservation.pdb
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.csprojAssemblyReference.cache
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.csproj.CoreCompileInputs.cache
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.AssemblyInfoInputs.cache
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.AssemblyInfo.cs
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.dll
+C:\Users\alberthenry\workspaces\week-6-pair-exercises-c-team-4\09_Capstone\dotnet\ParkReservation\obj\Debug\netcoreapp2.2\ParkReservation.pdb
